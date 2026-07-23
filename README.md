@@ -2,7 +2,7 @@
 
 Projeto final da eletiva **Financial Databases: Modeling and Testing in Python**.
 
-> **Não é necessário executar o projeto para avaliá-lo.**  
+> **Não é necessário executar o projeto.**  
 > O arquivo `main.ipynb` já está salvo com os resultados, tabelas e gráficos gerados, acompanhados das explicações. Basta abri-lo no VS Code para visualizar o trabalho completo.
 >
 > As instruções abaixo são apenas para quem desejar executar novamente todas as células.
