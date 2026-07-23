@@ -1,1 +1,0 @@
-Financial Databases: Modeling and Testing in Python 2026
